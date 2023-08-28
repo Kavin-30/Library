@@ -1,0 +1,24 @@
+
+header{
+    display:flex;
+    padding: 15px 0;
+    background-color: #5350a2;
+    color: #fff;
+    margin-bottom: 15px;
+    font-size: 90%;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+nav a:hover{
+         color: black;
+}
+.next{
+    text-decoration: none;
+    color: white;
+}
+.next:hover{
+    color: white;
+}
